@@ -18,6 +18,7 @@ Trabajo con teledetección, análisis espacial y bases de datos geoespaciales, s
 
 - [Introducción a Python (21 h) · UNED, 2024](certificados/Certificado_UNED_Introduccion_Python.pdf)
 - [Excel (8 h) · Santander Open Academy, 2026](certificados/Certificado_Santander_Excel.pdf)
+- [Certificado_BureauVeritas_Gestion_Residuos.pdf](https://github.com/user-attachments/files/33635165/Certificado_BureauVeritas_Gestion_Residuos.pdf)
 
 ## Contacto
 
