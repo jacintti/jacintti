@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33635320/README.md)
+[README.md](https://github.com/user-attachments/files/34493736/README.md)
 # Jacinto Domínguez Morales
 
 Técnico SIG en Telespazio (proyectos Copernicus, EEA e IGN). Graduado en Geografía e Historia (UNED) y Máster en Tecnologías de la Información Geográfica (UCM).
@@ -17,6 +17,7 @@ Trabajo con teledetección, análisis espacial y bases de datos geoespaciales, s
 
 ## Formación complementaria
 
+- [Creación de datasets de terreno con datos LiDAR (2 h) · Esri España, 2026](certificados/Certificado_Esri_LiDAR_Datasets_Terreno.pdf)
 - [Introducción a Python (21 h) · UNED, 2024](certificados/Certificado_UNED_Introduccion_Python.pdf)
 - [Excel (8 h) · Santander Open Academy, 2026](certificados/Certificado_Santander_Excel.pdf)
 - [Gestión de residuos según la Ley 7/2022 (10 h) · Bureau Veritas Business School, 2024](certificados/Certificado_BureauVeritas_Gestion_Residuos.pdf)
